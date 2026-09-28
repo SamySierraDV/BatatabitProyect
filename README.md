@@ -58,4 +58,4 @@ cd BatatabitProyect
 ## 🤝 Créditos
 
 Desarrollado por **Samy Suarez** como parte de su
-formación Frontend — Oracle Next Education (ONE) con Alura Latam.
+formación Frontend — Platzi.
